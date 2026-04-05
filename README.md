@@ -15,13 +15,13 @@ JavaScript-Review/
 ├── OperatorsAndExpressions/           # Arithmetic, logical, comparison, assignment
 ├── VariablesAndDataTypes/
 │   ├── dataTypes.js                   # Primitives, reference types, type checking
-│   ├── json.js                        # JSON.parse(), JSON.stringify()
 │   └── variables.js                   # var, let, const, scope, hoisting
 │
 ├── arrays.js                          # Array methods and iteration
 ├── async.js                           # Promises, async/await, error handling
 ├── errors.js                          # try/catch, custom errors, finally
 ├── functions.js                       # Declarations, expressions, arrow functions
+├── json.js                            # JSON.parse(), JSON.stringify()
 ├── objects.js                         # Object literals, methods, destructuring
 └── strings.js                         # String methods and manipulation
 ```
@@ -35,12 +35,13 @@ JavaScript-Review/
 | Variables & Data Types | `VariablesAndDataTypes/` |
 | Operators & Expressions | `OperatorsAndExpressions/` |
 | Control Flow & Loops | `ControlFlows-Conditionals_Loops/` |
-| Functions | `functions.js` |
 | Arrays | `arrays.js` |
+| Async - Await / Promises | `async.js` |
+| Error Handling | `errors.js` |
+| Functions | `functions.js` |
+| Json |`json.js`|
 | Objects | `objects.js` |
 | Strings | `strings.js` |
-| Error Handling | `errors.js` |
-| Async / Promises | `async.js` |
 
 ---
 
